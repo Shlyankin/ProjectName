@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjectName</string>
+    <string-array name="category">
+        <item>Стажировки</item>
+        <item>Олимпиады</item>
+        <item>Конкурсы</item>
+        <item>Мероприятия</item>
+        <item>Вакансии</item>
+    </string-array>
+
+    <string-array name="allCategory">
+        <item>Все новости</item>
+        <item>Стажировки</item>
+        <item>Олимпиады</item>
+        <item>Конкурсы</item>
+        <item>Мероприятия</item>
+        <item>Вакансии</item>
+    </string-array>
+</resources>
